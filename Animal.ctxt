@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ private\ int\ age\ \=\ 21;\r\n\ \ \ \ private\ boolean\ isMale\ \=\ true;\r\n\ \ \ \ private\ String\ name\ \=\ "Melman";\r\n\ \ \ \ private\ double\ weight\ \=\ 1800.01;\r\n\ \ \ \ private\ final\ String\ COLOR\ \=\ "Yellow\ with\ brown\ polka-dots";\r\n
+numComments=2
