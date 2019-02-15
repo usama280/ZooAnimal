@@ -26,17 +26,14 @@ public class Food
     }
     public int getAge()
     {
-        // put your code here
         return age;
     }
         public void setAge(int x)
     {
-        // put your code here
         age = x;
     }
     public String getGender()
     {
-        // put your code here
         if (isMale == true)
         {
             return "male";
@@ -47,25 +44,20 @@ public class Food
     }
         public void setGender(boolean y)
     {
-        // put your code here
         isMale = y;
     }
     public double getWeight()
     {
-        // put your code here
         return Math.round(weight * 100)/100.0;
     }
         public void setWeight(double z)
     {
-        // put your code here
         weight = z;
 
     }
     public String getName()
     {
-        // put your code here
         return name;
     }
         public void setName(String c)
     {
-        // put your co
